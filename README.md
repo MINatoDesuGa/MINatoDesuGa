@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lamminlun Simte</h1>
-<h3 align="center"> Game Developer | Creative Coder | Tech Enthusiast | Quick Learner</h3>
+<h3 align="center"> Game Developer | Creative Coder | Tech Enthusiast | Quick Learner | Puzzle lover</h3>
 
 ---
 
