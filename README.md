@@ -47,7 +47,7 @@
 
 ### 📫 Let's Connect!
 <!-- Portfolio: [your-portfolio.com](https://your-portfolio.com) -->
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/lamminlunsimte)
+- LinkedIn: www.linkedin.com/in/lamminlunsimte
 <!-- Itch.io: [Your itch.io](https://your-name.itch.io) -->
 
 ---
