@@ -37,12 +37,10 @@
 - Added new features & fixes and successfully shipped updates (Detailed works below in experience letter)
 - Company Site: https://appymonkeys.com/index.html
 - Experience Letter: https://drive.google.com/file/d/1qEN9RtI2pokf_Ijs-zh7lBmYt-xrhHOb/view?usp=sharing
-<!--
-### 🕹️ Projects & Games
-- 🎯 **[Project Title](https://github.com/your-username/project-repo)** – A short description of what this game/project does.
-- 🧩 **[Another Game](https://link-to-game-or-repo)** – Built using [Engine], focused on [Feature].
-- 🧠 **[Prototype or Experiment](https://link)** – A gameplay mechanic demo or experimental build.
--->
+  
+### 🕹️ Personal Projects & Games
+- All repositories here (Pinned ones especially) 
+
 ---
 
 ### 📫 Let's Connect!
