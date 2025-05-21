@@ -21,7 +21,7 @@
 - Worked on Alpha Returns: FPS Game [Tech: Unity, C#, Photon2, Git]
 - Improved Weapon, Suit Inventory & Shop System, Weapon View System, In-Game UI Feels, Grenade throw mechanism, In-Game Kill Feeds, HP 
 - Added Dynamic In-Game event popup system, Suit Particle FX System, Player HUD, Suit Zoom & Preview System, Lock Sprint mechanic, Kill Streak Popup System
-- Collaborated with Artists, QA, Dev teams and shipped successful updates
+- Collaborated with Artists, QA, Dev teams and shipped successful updates (You can find my works in latest store builds)
 - Play Store: https://play.google.com/store/apps/details?id=com.caesiumlab.alphareturns&hl=en_IN&pli=1
 - App Store: https://apps.apple.com/in/app/alpha-returns/id6479646239
 
