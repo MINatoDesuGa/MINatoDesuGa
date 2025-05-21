@@ -46,6 +46,8 @@
 ### 📫 Let's Connect!
 <!-- Portfolio: [your-portfolio.com](https://your-portfolio.com) -->
 - LinkedIn: www.linkedin.com/in/lamminlunsimte
+- Phone: +91 9863087459
+- Email: lminlunsims14@gmail.com 
 <!-- Itch.io: [Your itch.io](https://your-name.itch.io) -->
 
 ---
