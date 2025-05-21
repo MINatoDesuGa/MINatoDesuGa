@@ -37,8 +37,10 @@
 - Added new features & fixes and successfully shipped updates (Detailed works below in experience letter)
 - Company Site: https://appymonkeys.com/index.html
 - Experience Letter: https://drive.google.com/file/d/1qEN9RtI2pokf_Ijs-zh7lBmYt-xrhHOb/view?usp=sharing
-  
-### 🕹️ Personal Projects & Games
+
+---
+
+## ❤️ Personal Projects & Games
 - All repositories here (Pinned ones especially) 
 
 ---
