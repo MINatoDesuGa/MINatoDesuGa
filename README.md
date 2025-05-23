@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lamminlun Simte</h1>
-<h3 align="center"> Game Developer | Creative Coder | Tech Enthusiast | Quick Learner | Puzzle lover</h3>
+<h3 align="center"> Game Developer | Tech Enthusiast | Puzzle lover</h3>
 
 ---
 
@@ -16,7 +16,7 @@
 ## 🏢 Professional Experience
 
 ### 🎮 Unity Developer @ Caesium Lab International Pvt Ltd
-📍 Hyderabad — 🗓️ Jan 2025 - 
+📍 Hyderabad — 🗓️ Jan 2025 - May 2025
 
 - Worked on Alpha Returns: FPS Game [Tech: Unity, C#, Photon2, Git]
 - Improved Weapon, Suit Inventory & Shop System, Weapon View System, In-Game UI Feels, Grenade throw mechanism, In-Game Kill Feeds, HP 
@@ -28,7 +28,7 @@
 ---
 
 ### 🕹️ Game Programmer @ Appy Monkeys Software Pvt Ltd
-📍 Bangalore — 🗓️ Jan 2023 to Oct 2024
+📍 Bangalore — 🗓️ Jan 2023 - Oct 2024
 
 - Worked on various Productivity Apps & Lokko 3d Platformer Game (PS5, PC, iOS)
 - Tools : Unity, C#, Xcode, Perforce, Jira, Git, Nakama
