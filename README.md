@@ -30,7 +30,7 @@
 ### 🕹️ Game Programmer @ Appy Monkeys Software Pvt Ltd
 📍 Bangalore — 🗓️ Jan 2023 - Oct 2024
 
-- Worked on various Productivity Apps & Lokko 3d Platformer Game (PS5, PC, iOS)
+- Worked on various Productivity Apps & Lokko 3d Platformer Game (PS5, Windows, Mac, iOS)
 - Tools : Unity, C#, Xcode, Perforce, Jira, Git, Nakama
 - Got exposure to Multiplatform Game Development, Game Optimization for mobile, PS5 Devkit tools
 - Involved in Switching from mobile to PC, PS5 Platform and showcasing for PlayStation Hero project campaign
