@@ -35,6 +35,9 @@
 - Got exposure to Multiplatform Game Development, Game Optimization for mobile, PS5 Devkit tools
 - Involved in Switching from mobile to PC, PS5 Platform and showcasing for PlayStation Hero project campaign
 - Added new features & fixes and successfully shipped updates (Detailed works below in experience letter)
+- Steam store link: https://store.steampowered.com/developer/appymonkeys/#browse
+- Appstore link: https://apps.apple.com/us/developer/arjun-gupte/id620272974
+- Lokko site: https://www.lokko.com/
 - Company Site: https://appymonkeys.com/index.html
 - Experience Letter: https://drive.google.com/file/d/1qEN9RtI2pokf_Ijs-zh7lBmYt-xrhHOb/view?usp=sharing
 
