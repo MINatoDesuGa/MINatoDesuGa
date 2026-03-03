@@ -43,7 +43,7 @@
 
 ---
 
-## ❤️ Personal Projects & Games
+## ❤️ Personal Projects
 - All repositories here (Pinned ones especially) 
 
 ---
