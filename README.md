@@ -18,10 +18,8 @@
 ### 🎮 Unity Developer @ Caesium Lab International Pvt Ltd
 📍 Hyderabad — 🗓️ Jan 2025 - May 2025
 
-- Worked on Alpha Returns: FPS Game [Tech: Unity, C#, Photon2, Git]
-- Improved Weapon, Suit Inventory & Shop System, Weapon View System, In-Game UI Feels, Grenade throw mechanism, In-Game Kill Feeds, HP 
-- Added Dynamic In-Game event popup system, Suit Particle FX System, Player HUD, Suit Zoom & Preview System, Lock Sprint mechanic, Kill Streak Popup System
-- Collaborated with Artists, QA, Dev teams and shipped successful updates
+- Worked on Alpha Returns: FPS Game
+- Tools: Unity, C#, Photon2, Git
 - Play Store: https://play.google.com/store/apps/details?id=com.caesiumlab.alphareturns&hl=en_IN&pli=1
 - App Store: https://apps.apple.com/in/app/alpha-returns/id6479646239
 
@@ -31,10 +29,7 @@
 📍 Bangalore — 🗓️ Jan 2023 - Oct 2024
 
 - Worked on various Productivity Apps & Lokko 3d Platformer Game (PS5, Windows, Mac, iOS)
-- Tools : Unity, C#, Xcode, Perforce, Jira, Git, Nakama
-- Got exposure to Multiplatform Game Development, Game Optimization for mobile, PS5 Devkit tools
-- Involved in Switching from mobile to PC, PS5 Platform and showcasing for PlayStation Hero project campaign
-- Added new features & fixes and successfully shipped updates (Detailed works below in experience letter)
+- Tools: Unity, C#, Xcode, Perforce, Jira, Git, Nakama
 - Steam store link: https://store.steampowered.com/developer/appymonkeys/#browse
 - Appstore link: https://apps.apple.com/us/developer/arjun-gupte/id620272974
 - Lokko site: https://www.lokko.com/
