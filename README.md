@@ -3,7 +3,7 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 TECH STACK & TOOLS
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -13,7 +13,7 @@
 </p>
 
 ---
-## 🏢 Professional Experience
+## 🏢 PROFESSIONAL EXPERIENCE
 
 ### 🎮 Unity Developer @ Caesium Lab International Pvt Ltd
 📍 Hyderabad — 🗓️ Jan 2025 - May 2025
@@ -37,12 +37,12 @@
 
 ---
 
-## ❤️ Personal Projects
+## ❤️ PERSONAL PROJECT
 - Playable demos under construction
 
 ---
 
-### 📫 Let's Connect!
+### 📫 LET'S CONNECT
 <!-- Portfolio: [your-portfolio.com](https://your-portfolio.com) -->
 - LinkedIn: www.linkedin.com/in/lamminlunsimte
 - Phone: +91 9863087459
