@@ -38,7 +38,7 @@
 ---
 
 ## ❤️ Personal Projects
-- All repositories here (Pinned ones especially) 
+- Playable demos under construction
 
 ---
 
